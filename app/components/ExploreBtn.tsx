@@ -10,7 +10,7 @@ const ExploreBtn = () => {
       className="mt-7 mx-auto block"
       onClick={() => console.log('Explore Events clicked')}
     >
-      Explore Events
+      Explore Events     
       <Image src={icon} alt="down arrow" width={24} height={24} className="inline-block ml-2"/>           
     </a>
   )

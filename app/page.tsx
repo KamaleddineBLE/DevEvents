@@ -6,7 +6,7 @@ const page = () => {
   return (
     <section>
       <h1 className='text-center'>the Hub for Everydev <br/> Events You Cant't Miss</h1>
-      <p className='text-center mt-5 '>Hackathons,Mettps,and Conferences ,All in one place</p>
+      <p className='text-center mt-5 '>Hackathons,Meetups,and Conferences ,All in one place</p>
       <ExploreBtn/>
       <div className="mt-20 space-y-7">
         <h3>Featured Events</h3>
